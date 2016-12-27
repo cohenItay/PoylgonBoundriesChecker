@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Polygon</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="outside_allowed_area">You are outside the allowed area</string>
+    <string name="inside_allowed_area">You are Inside the allowed area</string>
+    <string name="ditanceToPoint">the distance to the point is</string>
+</resources>
